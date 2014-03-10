@@ -1,0 +1,16 @@
+A quick and dirty attempt to solve the quora/twitter challenge of getting
+the closest n neighbors near to a given input location. 
+
+The algorithm can be modified to get the nearest tweets (i.e with fewer input
+params).
+
+For more details refer the first challenge in
+http://www.quora.com/challenges
+
+TO DO: 
+
+(i) A simple GUI implemented as a single page application using the Quora/Twitter API would be awesome. 
+
+(ii) Optimizations to the nearby algorithm remain.
+
+Execution: java Nearby input
